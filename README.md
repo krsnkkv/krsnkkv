@@ -1,7 +1,7 @@
 # Krishna's Vault
 Welcome to my Vault:) Here, I store my experiences, skill set and personal projects! 
 
-This is my about me file, feel free to reach out to me if you'd like to talk! 
+This is everything about me, feel free to reach out to me if you'd like to talk! 
 
 
 ## About me ❗
