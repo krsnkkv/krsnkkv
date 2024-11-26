@@ -52,12 +52,12 @@ __________
 
 ### Development Skills 🛠️ :
 - *Programming languages*: Java, C#, Python, C (basic), Haskell
-- *Database Management Systems* - MySQL, PostGreSQL - Projects such as RePackaged and FemmeVenture
+- *Database Management Systems* - Oracle, MySQL, PostGreSQL - Projects such as RePackaged and FemmeVenture
 - *Web Development/Design*: Developed a Website for SAI.ae
 - *Engineering* - Arduino, Raspberry PI - Satellite Design Competition
 - *Game Development* - Basic but developing skills with Unity, C# Scripting, GoDot.
 - *3D/2D Design* - Basic but developing skills with Blender and Voxel
-- *Deep Learning* - Certified in Fundamentals of Deep Learning by NVIDIA
+- *Deep Learning* - Certified in Fundamentals of Deep Learning by NVIDIA. Basic knowledge in PyTorch and LLM's 
 - *Software Engineering Projects/Deep Learning Experience*:
   - *Satellite Design Competition* - Currently developing payload subsystems and object detection system for CubeSat
   - *RePackaged*- (Group) Software Planning of a Mystery Box Application based in the UAE - Targeting blue collar workers of Dubai.
