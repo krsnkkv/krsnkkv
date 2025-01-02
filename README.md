@@ -34,10 +34,13 @@ Gained valuable professional experience in web development and project managemen
 - Took part in the MAHE Dubai Research Assistant Program 2021 where I contributed to the research project based on Product Development- Synthesis of Bio-Sanitizers.
 - Learned about the different parts of product development ranging from conceptualizing the product to building a roadmap & eventually launching the product.
 - Furthermore, I wrote a review on COVID-19 & the harmful effects due to frequent use of hand sanitizers, which contributed to the research project.
+
+#### Game Designer and Vice Lead
+- Currently, part of a team developing a game targeted towards 8-10 year olds.
+- Part of game designing team as well as assistant lead.
 __________
 ### Marketing Experience 📈:
-#### Head of Marketing and Social Media - UAE SEDS 🌙:
-- An upcoming student based organization that focuses on connecting youth interested in space and technology, I am the Marketing Head in charge of the Initial Stage of our organization. 
+
 #### Marketing Team Member - AIESEC UAE 📣:
 - AIESEC is a global youth-run organization that focuses on empowering young people to make a positive impact on society through practical experiences in leadership and global understanding. I am a part of the Marketing team that deals with the basic outreach of events as well as branding of the organization.
 #### Social Media and Marketing Team Member - GDev: (coders)hq 🎮:
@@ -46,6 +49,10 @@ __________
 #### Social Media Manager - UoBD Space Society 📱:
 - The UOBD Space Society is a dedicated society that fosters a passion to innovation and space exploration.
 - My main focus is promoting events our events and initiatives, creating engaging content to inform and support our community across our social media platforms.
+
+#### Initial Branding and Marketing - ESSA 🌙:
+- An student based organization that focuses on connecting youth interested in space and technology, was the in charge of the initial marketing and branding for ESSA.
+- Also, managed a small team for content creation and design development during the initial development and setting of the organization.
 
 
 ## Skills and Projects 💡:
@@ -56,7 +63,7 @@ __________
 - *Web Development/Design*: Developed a Website for SAI.ae
 - *Engineering* - Arduino, Raspberry PI - Satellite Design Competition
 - *Game Development* - Basic but developing skills with Unity, C# Scripting, GoDot.
-- *3D/2D Design* - Basic but developing skills with Blender and Voxel
+- *3D/2D Design* - Basic but developing skills with Blender and Voxel, Currently game designer for a game via gaming studio.
 - *Deep Learning* - Certified in Fundamentals of Deep Learning by NVIDIA. Basic knowledge in PyTorch and LLM's 
 - *Software Engineering Projects/Deep Learning Experience*:
   - *Satellite Design Competition* - Currently developing payload subsystems and object detection system for CubeSat
@@ -101,6 +108,10 @@ __________
 #### Volunteer - Rotaract 🍽️:
 - Had a role as a volunteer in the Iftar meals distribution organized by Rotaract. Provided food and water for many blue-collared workers.
 
+#### Participatino - App Olympics 2024
+- Designed and developed a application prototype that aims to be innovaative, impactful and a great gaming applicaiton as well.
+- Underwent process with a team, had a part in pitch deck development, designing, and brainstorming.
+- 
 ## Contact me! 🔗
 
 *Mail:* krishnasreevinod@gmail.com
