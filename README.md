@@ -1,5 +1,5 @@
 # Krishna's Vault
-Welcome to my Vault:) Here, I store my experiences, skill set and personal projects! 
+Welcome to my Vault :) Here, I store my experiences, skill set and personal projects! 
 
 This is everything about me, feel free to reach out to me if you'd like to talk! 
 
@@ -111,7 +111,7 @@ __________
 #### Participatino - App Olympics 2024
 - Designed and developed a application prototype that aims to be innovaative, impactful and a great gaming applicaiton as well.
 - Underwent process with a team, had a part in pitch deck development, designing, and brainstorming.
-- 
+  
 ## Contact me! 🔗
 
 *Mail:* krishnasreevinod@gmail.com
