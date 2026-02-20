@@ -36,10 +36,16 @@ Marketing, volunteering, certifications and awards
 
 ---
 
-## 🛠 Tech I Use
+## 🛠 Technical Skills
 
-Python • Java • C# • SQL • Unity • React • Flask • Git  
+**Languages:**  
+Java • Python • C# • JavaScript • SQL • HTML/CSS • Haskell  
 
+**Frameworks & Tools:**  
+Django • Unity • React • Flask • Arduino • Git • VS Code • Blender  
+
+**Python Libraries:**  
+Librosa • OpenCV • NumPy • SciPy • TensorFlow • PyTorch • spaCy
 ---
 
 ## 📫 Connect With Me
