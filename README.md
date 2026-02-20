@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I’m Krishna 👋
 
-<!--
-**krsnkkv/krsnkkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MEng Computer Science & Software Engineering  
+📍 University of Birmingham  
+💡 Interested in AI, Data, Algorithms & Game Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Work On
+
+- 🤖 Artificial Intelligence & Data Science  
+- 🧠 Algorithmic Problem Solving  
+- 🎮 Game Development  
+- 💼 Technical & Professional Experience  
+- 📊 Research & Experiments  
+
+---
+
+## 📂 Explore My Work
+
+### 🔹 Projects
+AI systems, games, competitions and university builds  
+➡️ https://github.com/krsnkkv/projects  
+
+### 🔹 Research
+Paper summaries, algorithm implementations, ML experiments  
+➡️ https://github.com/krsnkkv/research  
+
+### 🔹 Work Experience
+Internships, technical roles and industry work  
+➡️ https://github.com/krsnkkv/work-experience  
+
+### 🔹 Portfolio
+Marketing, volunteering, certifications and awards  
+➡️ https://github.com/krsnkkv/portfolio  
+
+---
+
+## 🛠 Tech I Use
+
+Python • Java • C# • SQL • Unity • React • Flask • Git  
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://linkedin.com/in/krishnasree-kelath  
+Email: krishnasreevinod@gmail.com
