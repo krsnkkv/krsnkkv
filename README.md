@@ -1,54 +1,34 @@
-# Hi, I’m Krishna 👋
+# Krishnasree Kelath
 
-🎓 MEng Computer Science & Software Engineering  
-📍 University of Birmingham  
-💡 Interested in AI, Data, Algorithms & Game Development  
-
----
-
-## 🚀 What I Work On
-
-- 🤖 Artificial Intelligence & Data Science  
-- 🧠 Algorithmic Problem Solving  
-- 🎮 Game Development  
-- 💼 Technical & Professional Experience  
-- 📊 Research & Experiments  
+MEng Computer Science & Software Engineering · University of Birmingham  
+Final year — researching cognitive and computational modelling of Rāga recognition  
+Interests: Machine Learning · AI · Algorithms · Game Development
 
 ---
 
-## 📂 Explore My Work
+## Repositories
 
-### 🔹 Projects
-AI systems, games, competitions and university builds  
-➡️ https://github.com/krsnkkv/projects  
+**[projects](https://github.com/krsnkkv/projects)**  
+AI systems, games, competitions and university coursework builds
 
-### 🔹 Research
-Paper summaries, algorithm implementations, ML experiments  
-➡️ https://github.com/krsnkkv/research  
+**[research](https://github.com/krsnkkv/research)**  
+Paper reports, algorithm implementations and ML experiments
 
-### 🔹 Work Experience
-Internships, technical roles and industry work  
-➡️ https://github.com/krsnkkv/work-experience  
-
-### 🔹 Portfolio
-Marketing, volunteering, certifications and awards  
-➡️ https://github.com/krsnkkv/portfolio  
+**[portfolio](https://github.com/krsnkkv/portfolio)**  
+Work experience, volunteering, certifications and awards
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
-**Languages:**  
-Java • Python • C# • JavaScript • SQL • HTML/CSS • Haskell  
+**Languages:** Java · Python · C# · JavaScript · SQL · HTML/CSS · Haskell
 
-**Frameworks & Tools:**  
-Django • Unity • React • Flask • Arduino • Git • VS Code • Blender  
+**Frameworks & Tools:** Django · Unity · React · Flask · Arduino · Git · VS Code · Blender
 
-**Python Libraries:**  
-Librosa • OpenCV • NumPy • SciPy • TensorFlow • PyTorch • spaCy
+**Python Libraries:** Librosa · OpenCV · NumPy · SciPy · TensorFlow · PyTorch · spaCy
+
 ---
 
-## 📫 Connect With Me
+## Contact
 
-LinkedIn: https://linkedin.com/in/krishnasree-kelath  
-Email: krishnasreevinod@gmail.com
+[LinkedIn](https://linkedin.com/in/krishnasree-kelath) · krishnasreevinod@gmail.com
