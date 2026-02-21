@@ -8,14 +8,14 @@ Interests: Machine Learning · AI · Algorithms · Game Development
 
 ## Repositories
 
-**[projects](https://github.com/krsnkkv/projects)**  
+**[Portfolio](https://github.com/krsnkkv/portfolio)**  
+Work experience, volunteering, certifications and awards
+
+**[Projects](https://github.com/krsnkkv/projects)**  
 AI systems, games, competitions and university coursework builds
 
-**[research](https://github.com/krsnkkv/research)**  
+**[Research](https://github.com/krsnkkv/research)**  
 Paper reports, algorithm implementations and ML experiments
-
-**[portfolio](https://github.com/krsnkkv/portfolio)**  
-Work experience, volunteering, certifications and awards
 
 ---
 
@@ -31,4 +31,4 @@ Work experience, volunteering, certifications and awards
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/krishnasree-kelath) · krishnasreevinod@gmail.com
+[LinkedIn](https://linkedin.com/in/krishnasree-kelath) · [krishnasreevinod@gmail.com](mailto:krishnasreevinod@gmail.com)
