@@ -1,7 +1,7 @@
 # Krishnasree Kelath
 
 MEng Computer Science & Software Engineering · University of Birmingham  
-Final year — researching cognitive and computational modelling of Rāga recognition  
+Final year · Researching cognitive and computational modelling of Rāga recognition  
 Interests: Machine Learning · AI · Algorithms · Game Development
 
 ---
