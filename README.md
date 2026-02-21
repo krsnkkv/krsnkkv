@@ -12,7 +12,7 @@ Interests: Machine Learning · AI · Algorithms · Game Development
 Work experience, volunteering, certifications and awards
 
 **[Projects](https://github.com/krsnkkv/projects)**  
-AI systems, games, competitions and university coursework builds
+AI systems, games, competitions, talk sessions and university builds
 
 **[Research](https://github.com/krsnkkv/research)**  
 Paper reports, algorithm implementations and ML experiments
