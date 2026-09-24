@@ -1,9 +1,14 @@
 # Krishnasree Kelath
 
-MEng Computer Science & Software Engineering · University of Birmingham  
-Final year · Researching cognitive and computational modelling of Rāga recognition  
-Interests: Machine Learning · AI · Algorithms · Game Development
+MSc Artificial Intelligence · University of Edinburgh  
+MEng Computer Science & Software Engineering (First Class) · University of Birmingham
 
+I work on interpretability in AI, cognition, and neuroscience. My MEng dissertation
+built an interpretable cognitive model of Carnatic rāga recognition.
+
+🌐 [Portfolio](https://krishnasree-seven.vercel.app) · 
+💼 [LinkedIn](https://linkedin.com/in/YOUR-WORKING-LINK) · 
+✉️ krishnasreevinod@gmail.com
 ---
 
 ## Repositories
@@ -28,7 +33,3 @@ Paper reports, algorithm implementations and ML experiments
 **Python Libraries:** Librosa · OpenCV · NumPy · SciPy · TensorFlow · PyTorch · spaCy
 
 ---
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/krishnasree-kelath) · [krishnasreevinod@gmail.com](mailto:krishnasreevinod@gmail.com)
