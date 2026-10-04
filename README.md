@@ -52,7 +52,7 @@ I'm building a spiking neuron simulator in Python to explore exactly this.
 - **[How Do We Hear a Rāga?](https://github.com/krsnkkv/HowDoWeHearARaga)**: An interpretable cognitive model of how listeners recognise melodies (First Class - MEng Final Year Project (ML + Research))
 - **[Our Patch](https://github.com/krsnkkv/Adahack-Postcode)**: A gamified street-greening map, winner of the Postcode Lottery challenge at ADA Hack 2026
 - **[FemmeVenture](https://github.com/krsnkkv/FemmeVenture)**: A full stack women's travel platform integrated towards female solo travellers (team project)
-- - **[Others](https://github.com/krsnkkv/Projects)**: Other projects I've done!
+- **[Others](https://github.com/krsnkkv/Projects)**: Other projects I've done!
 
 ### 📫 Find me
 
