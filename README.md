@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Krishna 👋</h1>
+<h1 align="center">Hi, I'm Krishnasree 👋</h1>
 
 <p align="center">MSc AI student at Edinburgh, working on interpretability in AI, cognition and neuroscience.</p>
 
