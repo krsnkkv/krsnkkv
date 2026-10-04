@@ -4,14 +4,23 @@
 
 ### 🧠 Stimulate the neuron
 
+Pick how much current to inject and watch what the neuron does.
+
+<details name="neuron" open>
+<summary><kbd>No current</kbd></summary>
+
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/krsnkkv/krsnkkv/main/neuron-rest.svg" width="640" alt="A neuron at rest, sitting steady at about −70 mV" />
 </p>
 
-It's resting. Give it some current.
+At rest. The voltage sits steady at about −70 mV.
 
-<details>
-<summary>⚡ Inject a little current</summary>
+</details>
+
+<details name="neuron">
+<summary><kbd>⚡ A little current</kbd></summary>
 
 <br>
 
@@ -21,8 +30,10 @@ It's resting. Give it some current.
 
 The voltage climbs but stays under threshold, so nothing fires.
 
-<details>
-<summary>⚡⚡ Inject more</summary>
+</details>
+
+<details name="neuron">
+<summary><kbd>⚡⚡ More current</kbd></summary>
 
 <br>
 
@@ -30,17 +41,18 @@ The voltage climbs but stays under threshold, so nothing fires.
   <img src="https://raw.githubusercontent.com/krsnkkv/krsnkkv/main/neuron-fire.svg" width="640" alt="The voltage crosses threshold and the neuron fires a train of spikes" />
 </p>
 
-Threshold crossed. It fires, resets, and fires again for as long as the current is on. I'm building a spiking neuron simulator in Python to explore exactly this.
+Threshold crossed. It fires, resets, and fires again for as long as the current is on.
 
 </details>
 
-</details>
+I'm building a spiking neuron simulator in Python to explore exactly this.
 
 ### 🛠️ Things I've built
 
-- **[How Do We Hear a Rāga?](https://github.com/krsnkkv/HowDoWeHearARaga)**: an interpretable cognitive model of how listeners recognise melodies (MEng dissertation)
-- **[Our Patch](https://github.com/krsnkkv/Adahack-Postcode)**: a gamified street-greening map, winner of the Postcode Lottery challenge at ADA Hack 2026
-- **[FemmeVenture](https://github.com/krsnkkv/FemmeVenture)**: a women's travel platform (team project)
+- **[How Do We Hear a Rāga?](https://github.com/krsnkkv/HowDoWeHearARaga)**: An interpretable cognitive model of how listeners recognise melodies (First Class - MEng Final Year Project (ML + Research))
+- **[Our Patch](https://github.com/krsnkkv/Adahack-Postcode)**: A gamified street-greening map, winner of the Postcode Lottery challenge at ADA Hack 2026
+- **[FemmeVenture](https://github.com/krsnkkv/FemmeVenture)**: A full stack women's travel platform integrated towards female solo travellers (team project)
+- - **[Others](https://github.com/krsnkkv/Projects)**: Other projects I've done!
 
 ### 📫 Find me
 
