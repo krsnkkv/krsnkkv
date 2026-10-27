@@ -19,7 +19,7 @@ Sana puts a chocolate bar in a **drawer** and leaves the room. While she's away,
 Sana hasn't seen this happen.
 
 <p align="center">
-  <img src="./assets/false-belief.svg" width="600" alt="Animation: Sana leaves, Alex moves the chocolate from the drawer to the cupboard, and Sana returns still believing it is in the drawer" />
+  <img src="./false-belief.svg" width="600" alt="Animation: Sana leaves, Alex moves the chocolate from the drawer to the cupboard, and Sana returns still believing it is in the drawer" />
 </p>
 
 **Where will Sana look for the chocolate?**
@@ -82,7 +82,7 @@ These are the kinds of questions that make Theory of Mind, cognitive modelling, 
 A spiking neuron simulator in Python to explore how neurons integrate signals and generate action potentials.
 
 <p align="center">
-  <img src="./assets/spike-train.svg" width="600" alt="Animation: a neuron's membrane potential slowly charging, crossing threshold, spiking and resetting" />
+  <img src="./spike-train.svg" width="600" alt="Animation: a neuron's membrane potential slowly charging, crossing threshold, spiking and resetting" />
 </p>
 
 ### 📫 Find me
