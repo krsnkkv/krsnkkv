@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 140" width="600" height="140" role="img" aria-label="A neuron's membrane potential charging, crossing threshold, spiking and resetting">
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; fill: #9aa7b4; }
+    #trace { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: draw 6s linear infinite; }
+    @keyframes draw {
+      0%   { stroke-dashoffset: 1400; opacity: 1; }
+      75%  { stroke-dashoffset: 0; opacity: 1; }
+      92%  { stroke-dashoffset: 0; opacity: 1; }
+      100% { stroke-dashoffset: 0; opacity: 0; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="598" height="138" rx="16" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+
+  <g transform="translate(10,14)">
+    <line x1="0" y1="58" x2="580" y2="58" stroke="#6a4c93" stroke-width="1.5" stroke-dasharray="5 5"/>
+    <text x="4" y="52">threshold</text>
+    <text x="4" y="108">V(t)</text>
+    <path id="trace" fill="none" stroke="#1982c4" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"
+      d="M0,90 Q60,88 98,58 L104,8 L110,104 L116,90
+         Q176,88 214,58 L220,8 L226,104 L232,90
+         Q292,88 330,58 L336,8 L342,104 L348,90
+         Q408,88 446,58 L452,8 L458,104 L464,90
+         Q524,88 562,58 L568,8 L574,104 L580,90"/>
+  </g>
+</svg>
