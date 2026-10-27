@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a4c93,100:1982c4&height=190&section=header&text=Hi,%20I'm%20Krishnasree&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=fadeIn" alt="Hi, I'm Krishnasree" />
+  <img src="./assets/header.svg" width="600" alt="Hi, I'm Krishnasree — MSc Artificial Intelligence, University of Edinburgh" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Sana puts a chocolate bar in a **drawer** and leaves the room. While she's away,
 Sana hasn't seen this happen.
 
 <p align="center">
-  <img src="./false-belief.svg" width="600" alt="Animation: Sana leaves, Alex moves the chocolate from the drawer to the cupboard, and Sana returns still believing it is in the drawer" />
+  <img src="./assets/false-belief.svg" width="600" alt="Animation: Sana leaves, Alex moves the chocolate from the drawer to the cupboard, and Sana returns still believing it is in the drawer" />
 </p>
 
 **Where will Sana look for the chocolate?**
@@ -82,7 +82,7 @@ These are the kinds of questions that make Theory of Mind, cognitive modelling, 
 A spiking neuron simulator in Python to explore how neurons integrate signals and generate action potentials.
 
 <p align="center">
-  <img src="./spike-train.svg" width="600" alt="Animation: a neuron's membrane potential slowly charging, crossing threshold, spiking and resetting" />
+  <img src="./assets/spike-train.svg" width="600" alt="Animation: a neuron's membrane potential slowly charging, crossing threshold, spiking and resetting" />
 </p>
 
 ### 📫 Find me
@@ -90,8 +90,4 @@ A spiking neuron simulator in Python to explore how neurons integrate signals an
 <p>
   <a href="https://krishnasree-seven.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1982c4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/krishnasree-kelath/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1982c4,100:6a4c93&height=100&section=footer" alt="" />
 </p>
