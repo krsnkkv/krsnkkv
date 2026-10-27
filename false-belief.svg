@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 230" width="600" height="230" role="img" aria-label="Sana leaves, Alex moves the chocolate from the drawer to the cupboard, and Sana returns still believing it is in the drawer">
+  <style>
+    text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3; }
+    .label { font-size: 12px; fill: #9aa7b4; }
+    .cap { font-size: 15px; font-weight: 600; opacity: 0; }
+    .anim { animation-duration: 12s; animation-iteration-count: infinite; animation-timing-function: ease-in-out; }
+    #sana { animation-name: sana; }
+    #alex { animation-name: alex; opacity: 0; }
+    #choc { animation-name: choc; }
+    #bubble { animation-name: bubble; opacity: 0; }
+    #c1 { animation-name: c1; }
+    #c2 { animation-name: c2; }
+    #c3 { animation-name: c3; }
+
+    @keyframes sana {
+      0%, 18%   { transform: translateX(0); opacity: 1; }
+      26%, 52%  { transform: translateX(110px); opacity: 0; }
+      60%, 100% { transform: translateX(0); opacity: 1; }
+    }
+    @keyframes alex {
+      0%, 25%   { opacity: 0; }
+      30%, 50%  { opacity: 1; }
+      56%, 100% { opacity: 0; }
+    }
+    @keyframes choc {
+      0%, 31%   { transform: translate(0, 0); opacity: 1; }
+      39%       { transform: translate(180px, -75px); opacity: 1; }
+      47%, 94%  { transform: translate(360px, -32px); opacity: 1; }
+      99%       { transform: translate(360px, -32px); opacity: 0; }
+      100%      { transform: translate(0, 0); opacity: 0; }
+    }
+    @keyframes bubble {
+      0%, 62%   { opacity: 0; }
+      68%, 92%  { opacity: 1; }
+      96%, 100% { opacity: 0; }
+    }
+    @keyframes c1 {
+      0%, 20%   { opacity: 1; }
+      25%, 96%  { opacity: 0; }
+      100%      { opacity: 1; }
+    }
+    @keyframes c2 {
+      0%, 27%   { opacity: 0; }
+      31%, 54%  { opacity: 1; }
+      58%, 100% { opacity: 0; }
+    }
+    @keyframes c3 {
+      0%, 58%   { opacity: 0; }
+      63%, 92%  { opacity: 1; }
+      96%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="598" height="228" rx="16" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <line x1="40" y1="170" x2="560" y2="170" stroke="#30363d" stroke-width="2"/>
+
+  <!-- Drawer (chest) -->
+  <rect x="70" y="110" width="100" height="60" rx="4" fill="#3a2f4f" stroke="#6a4c93" stroke-width="2"/>
+  <line x1="70" y1="140" x2="170" y2="140" stroke="#6a4c93" stroke-width="2"/>
+  <circle cx="150" cy="125" r="3" fill="#b9a3d9"/>
+  <circle cx="150" cy="155" r="3" fill="#b9a3d9"/>
+  <text class="label" x="120" y="188" text-anchor="middle">drawer</text>
+
+  <!-- Cupboard -->
+  <rect x="430" y="60" width="100" height="110" rx="4" fill="#1f3a52" stroke="#1982c4" stroke-width="2"/>
+  <line x1="480" y1="60" x2="480" y2="170" stroke="#1982c4" stroke-width="2"/>
+  <circle cx="473" cy="120" r="3" fill="#8ecae6"/>
+  <circle cx="487" cy="120" r="3" fill="#8ecae6"/>
+  <text class="label" x="480" y="188" text-anchor="middle">cupboard</text>
+
+  <!-- Chocolate -->
+  <g id="choc" class="anim">
+    <rect x="96" y="120" width="26" height="12" rx="2" fill="#7b4a2a" stroke="#c8925f" stroke-width="1.5"/>
+    <line x1="105" y1="120" x2="105" y2="132" stroke="#c8925f" stroke-width="1"/>
+    <line x1="113" y1="120" x2="113" y2="132" stroke="#c8925f" stroke-width="1"/>
+  </g>
+
+  <!-- Alex -->
+  <g id="alex" class="anim">
+    <circle cx="390" cy="92" r="13" fill="#8ecae6"/>
+    <path d="M372,170 L390,108 L408,170 Z" fill="#8ecae6"/>
+    <text class="label" x="390" y="188" text-anchor="middle">Alex</text>
+  </g>
+
+  <!-- Sana -->
+  <g id="sana" class="anim">
+    <circle cx="300" cy="92" r="13" fill="#f4a261"/>
+    <path d="M282,170 L300,108 L318,170 Z" fill="#f4a261"/>
+    <text class="label" x="300" y="188" text-anchor="middle">Sana</text>
+  </g>
+
+  <!-- Sana's (false) belief -->
+  <g id="bubble" class="anim">
+    <circle cx="288" cy="74" r="3" fill="#f4a261"/>
+    <circle cx="279" cy="63" r="5" fill="#f4a261" fill-opacity="0.6"/>
+    <ellipse cx="205" cy="40" rx="82" ry="24" fill="#f4a261" fill-opacity="0.12" stroke="#f4a261" stroke-width="1.5"/>
+    <text x="205" y="45" text-anchor="middle" font-size="13">“it's still in the drawer”</text>
+  </g>
+
+  <!-- Captions -->
+  <text id="c1" class="cap anim" x="300" y="214" text-anchor="middle">Sana puts the chocolate in the drawer…</text>
+  <text id="c2" class="cap anim" x="300" y="214" text-anchor="middle">…she leaves, and Alex moves it to the cupboard</text>
+  <text id="c3" class="cap anim" x="300" y="214" text-anchor="middle">Sana's back. Where will she look?</text>
+</svg>
