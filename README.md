@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="600" alt="Hi, I'm Krishnasree — MSc Artificial Intelligence, University of Edinburgh" />
+ Hi, I'm Krishnasree Kelath. Welcome to my GitHub! 
 </p>
 
 <p align="center">
@@ -76,14 +76,6 @@ These are the kinds of questions that make Theory of Mind, cognitive modelling, 
 - **[Our Patch](https://github.com/krsnkkv/Adahack-Postcode)** — A gamified street-greening map, winner of the Postcode Lottery challenge at ADA Hack 2026.
 - **[FemmeVenture](https://github.com/krsnkkv/FemmeVenture)** — A full-stack platform designed around women travelling solo.
 - **[More projects →](https://github.com/krsnkkv/Projects)**
-
-### ⚡ Currently building
-
-A spiking neuron simulator in Python to explore how neurons integrate signals and generate action potentials.
-
-<p align="center">
-  <img src="./assets/spike-train.svg" width="600" alt="Animation: a neuron's membrane potential slowly charging, crossing threshold, spiking and resetting" />
-</p>
 
 ### 📫 Find me
 
